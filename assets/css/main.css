@@ -28,6 +28,14 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.left-header:hover {
+	background-color: rgba(255, 255, 87, 0.363);
+}
+
+.right-header:hover {
+	background-color: rgba(255, 167, 35, 0.363);
+}
+
 body {
 	line-height: 1;
 }
