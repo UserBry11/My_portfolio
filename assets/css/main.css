@@ -29,15 +29,15 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 .left-header:hover {
-	background-color: rgba(0, 0, 0, 0.411);
+	background-color: rgba(98, 104, 24, 0.411);
 }
 
 .right-header:hover {
-	background-color: rgba(0, 0, 0, 0.411);
+	background-color: rgba(98, 104, 24, 0.411);
 }
 
 .toptable {
-	background-color: rgba(0, 0, 0, 0.411);
+	background-color: rgba(54, 54, 54, 0.336);
 }
 
 body {
@@ -1848,7 +1848,7 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: rgba(27, 27, 27, 0.767);
+		background-color: rgba(33, 60, 133, 0.767);
 		border: solid 1px !important;
 		border-color: rgba(255, 255, 255, 0.356) !important;
 		border-radius: 3em;
@@ -3257,7 +3257,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #333333;
+			background-color: #262726;
 		}
 
 		.wrapper.style1-alt {
@@ -3541,7 +3541,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #183047;
+		background: #014901;
 		cursor: default;
 		height: 100vh;
 		left: 0;
