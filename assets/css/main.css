@@ -38,6 +38,7 @@ footer, header, hgroup, menu, nav, section {
 
 .toptable {
 	background-color: rgba(54, 54, 54, 0.336);
+	cursor: wait;
 }
 
 body {
